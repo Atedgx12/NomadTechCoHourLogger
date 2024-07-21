@@ -1,4 +1,0 @@
-User: Owner
-Project: Bloomfield Homes
-Hours: 0.00
-Cost: $0.09
